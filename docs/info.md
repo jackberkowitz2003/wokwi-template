@@ -13,7 +13,7 @@ This project is a full adder.
 
 ## How to test
 
-Test to see if it works as a full adder.
+Test inputs 0 and 1 as input bits, and input 2 as Carry in. Output 0 is the first digit out, and output 1 as carry out.
 
 ## External hardware
 
